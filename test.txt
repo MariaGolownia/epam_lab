@@ -1,2 +1,4 @@
 start
-add new line in git
+add line in git
+start working in git gui&
+
