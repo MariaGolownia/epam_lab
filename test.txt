@@ -3,3 +3,10 @@ add line in git
 start working in git gui&
 add 2
 
+important information
+important information2
+important information3
+important information4
+important information5
+----------------------------------------
+
