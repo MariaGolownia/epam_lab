@@ -8,19 +8,9 @@ important information2
 important information3
 important information4
 important information5
-----------------------------------------
-
-text in the new branch
-text in the new branch2
-text in the new branch3
-text in the new branch4
-text in the new branch5
-
-
-NEW text in the branch
-NEW text in the branch2
-NEW text in the branch3
-NEW text in the branch4
-NEW text in the branch5
+---------------------------------
+adding in feature branch
+adding in feature branch2
+adding in feature branch3
 
 
