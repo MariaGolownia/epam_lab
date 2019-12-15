@@ -16,3 +16,11 @@ text in the new branch3
 text in the new branch4
 text in the new branch5
 
+
+NEW text in the branch
+NEW text in the branch2
+NEW text in the branch3
+NEW text in the branch4
+NEW text in the branch5
+
+
