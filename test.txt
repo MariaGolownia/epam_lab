@@ -3,8 +3,14 @@ add line in git
 start working in git gui&
 add 2
 
+
 adding in master branch
 adding in master branch2
 adding in master branch3
+
+adding in feature branch
+adding in feature branch2
+adding in feature branch3
+
 
 
